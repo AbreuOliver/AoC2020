@@ -6,6 +6,6 @@ This repository contains my solutions, in JavaScript, to each of the day's probl
 
 # Advent of Christ (Year Unknown)
 
-**Did you know?** Though the term `Advent` is generally used to reference the time at the end of the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar) year in anticipation of Christmas, the orignal meaning had very little to do with the birth of [the Christ](https://en.wikipedia.org/wiki/Christ_(title))?
+**Did you know?** Though the term `Advent` is generally used to reference the time at the end of the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar) year in anticipation of Christmas, the orignal meaning had very little to do with the birth of [the Christ](https://en.wikipedia.org/wiki/Christ_(title)).
 
 Roman Christians until the 6th century used the term in reference to the prophecied [Second Coming](https://www.britannica.com/topic/Second-Coming) of Jesus, until it became linked to first coming of Jesus at Christmas in the Middle Ages.
